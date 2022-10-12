@@ -1,0 +1,32 @@
+.a1 { 
+ color: blue;
+ text-align: center;
+ font-weight: 200;
+}
+
+.b2 {
+  color: rebeccapurple;
+  text-align: center;
+  font-size: 2rem ;
+}
+
+.c3 {
+  color: aliceblue;
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.aboutme {
+  color: aqua;
+  text-align: center;
+  font-weight: 200;
+}
+
+img {
+  display: block;
+  float: center;
+}
+
+span {
+  font-weight: 800;
+}
